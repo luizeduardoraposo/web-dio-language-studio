@@ -1,0 +1,13 @@
+O que é o Spin do Elétron?
+
+O **spin do elétron** é uma propriedade quântica presente em partículas subatômicas, como prótons e elétrons. Ele está vagamente relacionado ao movimento angular do elétron em torno de um eixo e ao seu momento angular. Existem **dois estados de spin** para o elétron, que são descritos pelo **número quântico m_s**, com valores de **+½** ou **-½**².
+
+Antes da descoberta do spin do elétron, a órbita do átomo era analisada através dos **números quânticos**. Esses números quânticos eram responsáveis pela relação dos níveis de energia do elétron, pela forma orbital realizada pelo elétron e também pela descrição da quantização espacial feita por ele. No entanto, em 1925, o físico austríaco **Wolfgang Pauli** observou que o número de elétrons não se repetia no mesmo átomo. Como cada orbital pode conter apenas dois elétrons, esses necessariamente precisam apresentar energias diferentes. Pauli postulou a **exclusão do spin**, quando percebeu que o elétron possui a mesma quantidade de números quânticos em um mesmo átomo, definindo, assim, a **estrutura eletrônica dos átomos**¹.
+
+Em resumo, o spin do elétron é uma característica fundamental que influencia a organização dos elétrons nos átomos e está relacionado à sua natureza quântica. 🌀🔬
+
+Source: Conversation with Bing, 2/10/2024
+(1) O que é spin de elétrons? - Greelane.com. https://www.greelane.com/pt/ciência-tecnologia-matemática/ciência/definition-of-electron-spin-in-chemistry-604450.
+(2) O Spin do Elétron e o Princípio da Exclusão - Brasil Escola. https://brasilescola.uol.com.br/fisica/o-spin-eletron-principio-exclusao.htm.
+(3) Como saber o spin do elétron? - Você Pergunta. https://vocepergunta.com/library/artigo/read/113342-como-saber-o-spin-do-eletron.
+(4) Números Quânticos: principal, secundário, magnético e de spin. https://www.todamateria.com.br/numeros-quanticos/.
